@@ -1,2 +1,2 @@
 # Sudoku_BackTracking
-Solucion a juego popular de sudoku por medio del slgoritmo de búsqueda en profundidad
+Solucion a juego popular sudoku por medio del algoritmo de búsqueda en profundidad
